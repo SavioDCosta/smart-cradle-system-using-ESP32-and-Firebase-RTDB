@@ -1,0 +1,71 @@
+{
+  "deviceId" : 123,
+  "motionSensor" : true,
+  "servoControl" : false,
+  "soundSensor" : 0,
+  "users" : {
+    "aa4124bc0a9335c27f086f24ba207a4912" : {
+      "email" : "aa",
+      "name" : "aa",
+      "password" : "4124bc0a9335c27f086f24ba207a4912"
+    },
+    "bb21ad0bd836b90d08f4cf640b4c298e7c" : {
+      "email" : "bb",
+      "name" : "bb",
+      "password" : "21ad0bd836b90d08f4cf640b4c298e7c"
+    },
+    "bigddad@yahoocombfe5376e948d80e5b6800cf786b36dd5" : {
+      "email" : "bigddad@yahoo.com",
+      "name" : "bigDaddy",
+      "password" : "bfe5376e948d80e5b6800cf786b36dd5"
+    },
+    "collingonsalves00@gmailcom202cb962ac59075b964b07152d234b70" : {
+      "email" : "collin.gonsalves00@gmail.com",
+      "motionSensor" : false,
+      "name" : "Collin",
+      "password" : "202cb962ac59075b964b07152d234b70",
+      "soundSensor" : 0,
+      "waterSensor" : 1
+    },
+    "dd202cb962ac59075b964b07152d234b70" : {
+      "email" : "dd",
+      "motionSensor" : false,
+      "name" : "Savio",
+      "password" : "202cb962ac59075b964b07152d234b70",
+      "soundSensor" : 1,
+      "waterSensor" : 0
+    },
+    "dum2f36178feffc1db4b9b724cecc7aff581" : {
+      "email" : "dum2",
+      "name" : "Dummy2",
+      "password" : "f36178feffc1db4b9b724cecc7aff581"
+    },
+    "dumf36178feffc1db4b9b724cecc7aff581" : {
+      "email" : "dum",
+      "name" : "Dummy",
+      "password" : "f36178feffc1db4b9b724cecc7aff581"
+    },
+    "iotdevs@gmailcom202cb962ac59075b964b07152d234b70" : {
+      "email" : "iotdevs@gmail.com",
+      "name" : "iotdevs",
+      "password" : "202cb962ac59075b964b07152d234b70"
+    },
+    "sss9f6e6800cfae7749eb6c486619254b9c" : {
+      "email" : "sss",
+      "motionSensor" : true,
+      "name" : "ss",
+      "password" : "9f6e6800cfae7749eb6c486619254b9c",
+      "soundSensor" : 1,
+      "waterSensor" : 0
+    },
+    "steve26dcosta@gmailcom202cb962ac59075b964b07152d234b70" : {
+      "email" : "steve26dcosta@gmail.com",
+      "motionSensor" : false,
+      "name" : "Steve",
+      "password" : "202cb962ac59075b964b07152d234b70",
+      "soundSensor" : 0,
+      "waterSensor" : 0
+    }
+  },
+  "waterSensor" : 0
+}
