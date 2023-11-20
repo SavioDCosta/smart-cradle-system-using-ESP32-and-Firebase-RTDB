@@ -1,1 +1,1 @@
-# smart-cradle-system-using-ESP32-and-Firebase-RTDB
+# Smart Cradle System using ESP32 and Firebase Realtime Database
